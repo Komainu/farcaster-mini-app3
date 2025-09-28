@@ -1,0 +1,22 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "My First Mini App",
+    "subtitle": "Hello Farcaster!",
+    "description": "This is my practice Farcaster Mini App with webhook",
+    "iconUrl": "https://your-vercel-url.vercel.app/icon.png",
+    "splashImageUrl": "https://your-vercel-url.vercel.app/hero.png",
+    "splashBackgroundColor": "#ffffff",
+    "homeUrl": "https://your-vercel-url.vercel.app",
+    "webhookUrl": "https://your-vercel-url.vercel.app/api/webhook",
+    "primaryCategory": "social",
+    "tags": ["demo", "practice"],
+    "heroImageUrl": "https://your-vercel-url.vercel.app/hero.png",
+    "buttonTitle": "Say Hello"
+  }
+}
